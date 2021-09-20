@@ -1,0 +1,22 @@
+{
+  "short_name": "Lalaaji",
+  "name": "Lalaaji.com: Manufacturers, Suppliers, Exporters & Importers from the world's largest online B2B marketplace",
+  "icons": [
+    {
+      "src":"/android-chrome-192x192.png",
+      "sizes":"192x192",
+      "type":"image/png"
+    }
+  ,
+    {
+      "src":"/android-chrome-512x512.png",
+      "sizes":"512x512",
+      "type":"image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+

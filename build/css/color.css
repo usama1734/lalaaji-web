@@ -1,0 +1,17 @@
+.member-login .form-content .input-container input[type="text"]:focus, 
+.member-login .form-content .input-container input[type="password"]:focus, 
+.lalaa-btn, 
+.product-cover, 
+.lalaaji-adv .caption .shop, 
+.product-list ul li, 
+.product-list.with-cat-list ul ul li:before, 
+.cant-find, 
+.suppliers-list .suppliers, 
+.hot-categories ul li, 
+.product-grid, 
+.widget-tags ul li, 
+.sidebar-nav ul li{
+    transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+}

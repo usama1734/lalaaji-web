@@ -1,0 +1,1129 @@
+
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/
+@media (min-width: 1367px) and (max-width: 1680px) {
+}
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/
+@media (min-width: 1200px) and (max-width: 1366px) {
+
+}
+/*
+=================================================
+			FROM 992PX TO 1199PX
+=================================================
+*/
+@media (max-width: 1199px) {
+	.top-menu .nav ul li{
+		margin-left:10px;
+	}
+	.top-menu .show{
+		right: 0px;
+	}
+	.get-verification{
+		font-size: 14px;
+		height: 40px;
+		width: 260px;
+		padding: 10px 15px;
+	}
+	.widget-search{
+		padding: 20px;
+	}
+	.lalaaji-sections .header h2{
+		font-size: 18px;
+	}
+	.recent-post h2, .newarrival-widget h2{
+		font-size: 14px;
+		line-height: inherit;
+	}
+	.recent-post .widget-content .text p.price{
+		margin-bottom: 0px;
+	}
+	.recent-post .widget-content .text{
+		padding: 10px 0px;
+	}
+	.lalaaji-provides ul li{
+		padding: 13px;
+	}
+	.lalaaji-adv .caption2{
+		padding: 28px 0px 0px 45px;
+	}
+	.lalaaji-adv .caption2 h2{
+		font-size: 20px;
+	}
+	.lalaaji-sections .header .title, .lalaaji-sections .header .title2{
+		padding: 10px 15px;
+	}
+	.lalaaji-sections .header .nav{
+		padding: 18px 15px;
+	}
+	.product-list ul li .p-list .thumb{
+		height: 80px;
+		width: 80px;
+	}
+	.product-list ul li .p-list .text{
+		padding: 15px 0px 0px 10px;
+	}
+	.product-list.with-cat-list ul ul{
+		padding: 0px 20px;
+	}
+	.product-list.with-cat-list ul ul li{
+		padding: 4px 0px 4px 20px;
+	}
+	.product-list ul li.pro-categories{
+		min-height: 230px;
+	}
+	.hot-deals .text{
+		padding: 20px 0px 0px 20px;
+	}
+	.hot-deals .text p{
+		font-size: 14px;
+	}
+	.newarrival-widget ul li .new-list .thumb{
+		height: 80px;
+		width: 80px;
+	}
+	.newarrival-widget ul li .new-list .text{
+		padding: 5px 0px 0px 5px;
+	}
+	.rating-widget .widget-header h2{
+		font-size: 22px;
+	}
+	.about-content{
+		padding: 20px;
+	}
+	.about-content p{
+		font-size: 12px;
+		margin-bottom: 5px;
+	}
+	.cant-find .text h2{
+		font-size: 16px;
+	}
+	.cant-find{
+		padding: 30px 20px;
+	}
+	.offer-list ul li i{
+		width: 24px;
+	}
+	.offer-list ul li i img{
+		width: 100%;
+	}
+	.offer-list ul li{
+		padding: 11px 0px;
+	}
+	.lalaaji-note{
+		padding: 30px 30px;
+	}
+	.suppliers-list ul li{
+		margin: 10px;
+	}
+	.lalaaji-newsletters .news-l-text h2{
+		font-size: 22px;
+		margin: 0px;
+	}
+	.lalaaji-newsletters .news-l-text i{
+		width: 40px;
+		height: 40px;
+		margin-right: 10px;
+	}
+	.lalaaji-newsletters .news-l-text i img{
+		width: 100%;
+	}
+	.lalaaji-newsletters .news-l-text p{
+		font-size: 14px;
+	}
+	.lalaaji-newsletters{
+		padding: 20px;
+	}
+	.account-setting ul.setting li{
+		margin-bottom: 5px;
+	}
+
+	.lalaaji-adv .caption h2{
+		font-size: 20px;
+	}
+	.about-content iframe{
+		height: 215px;
+	}
+	.lalaaji-adv .caption{
+		padding: 15px 0px 0px 20px
+	}
+	.input-container .input-cover p{
+		font-size: 10px;
+	}
+	.width-100{
+		width: 100% !important;
+		max-width: 100% !important;
+		flex: auto !important;
+	}
+	.width-50{
+		width: 50% !important;
+		max-width: 50% !important;
+		flex: 50% !important;
+	}
+	.all-orders .header ul li{
+		padding: 0px 7px 10px 7px;
+	}
+	.all-orders .header ul li p {
+		font-size: 12px;
+	}
+	.rfq-table p{
+		font-size: 12px;
+	}
+	.input-container label{
+		font-size: 14px;
+	}
+	.mb-990-30{
+		margin-bottom: 30px;
+	}
+	.dash-sidebar{
+		width: 180px;
+	}
+	.dashboard-body{
+		padding-left: 180px;
+	}
+	.sidebar-nav ul li{
+		padding: 10px 10px 10px 15px;
+	}
+	.page-header .lalaaji{
+		width: 180px;
+	}
+	.text-conversation,
+	.conversation .conversation-data .inbox-inquiry{
+		width: 80%;
+	}
+	.width-35{
+		width: 35% !important;
+		max-width: 35% !important;
+		flex: auto !important;
+	}
+	.width-65{
+		width: 65% !important;
+		max-width: 65% !important;
+		flex: auto !important;
+	}
+	.msg-list ul li{
+		padding-left: 15px;
+	}
+	.get-quot h2{
+		font-size: 20px;
+	}
+	.get-quot{
+		padding: 40px 60px;
+	}
+	.product-list-style{
+		padding: 20px;
+	}
+	.input-container label.payments{
+		margin-bottom: 20px;
+	}
+	.signin-logo{
+		margin-bottom: 150px;
+	}
+	.welcome-section .content{
+		padding: 35px 30px 35px 30px;
+	}
+	.member-login{
+		padding: 50px;
+	}
+	.social-media ul li{
+		width: 45%;
+		margin-bottom: 10px;
+	}
+	.member-login .login-btns{
+		margin: 0px 0px 26px 0px;
+	}
+	.location-map .sidebar{
+		width: 40%;
+	}
+}
+
+/*
+=================================================
+			FROM 0PX TO 979PX
+=================================================
+*/
+@media (max-width: 991px) {
+	.input-container .form-btn{
+		padding: 15px 16px;
+	}
+	.width-768-50{
+		width: 50% !important;
+		max-width: 50% !important;
+		flex: auto !important;
+	}
+	.width-768-100{
+		width: 100% !important;
+		max-width: 100% !important;
+		flex: auto !important;
+	}
+	.order-list ul li div{
+		padding: 0;
+	}
+	.order-list ul li div:first-child{
+		width: 10% !important;
+	}
+	.order-list ul li div:nth-child(2){
+		width: 20% !important;
+	}
+	.order-list ul li div:nth-child(3){
+		width: 30% !important;
+	}
+	.order-list ul li div:nth-child(4){
+		width: 20% !important;
+	}
+	.order-list ul li div:nth-child(5){
+		width: 20% !important;
+	}
+	.profile-form{
+		float: left;
+		width: 100%;
+	}
+	.profile-picture{
+		margin: 0px 0px 30px 0px;
+	}
+	.product-list ul li .p-list .thumb{
+		height: 137px;
+		width: 137px;
+	}
+	.conact-us:before{
+		opacity: 0.2;
+		transform: translate(-50%,-50%);
+	}
+	.location-map .sidebar ul li{
+		padding: 20px 20px
+	}
+	.recommended-list ul li p,
+	.recommended-list ul li span{
+		font-size: 12px;
+	}
+	.header-middle .lalaaji-logo,
+	.header-middle .lalaaji-logo img{
+		width: 100%;
+	}
+	.user-area ul li{
+		padding: 0px 16px;
+	}
+	.main-nav .lalaa-categories{
+		padding: 15px 0px 15px 15px;
+	}
+	.nav-search input[type="text"],
+	.nav-search .lalaa-select,
+	.nav-search .select-selected,
+	.nav-search button{
+		height: 36px;
+	}
+	.nav-search .select-selected{
+		font-size: 12px;
+		padding: 9px 0px;
+	}
+	.shopping-cart{
+		padding: 10px 0px;
+	}
+	.shopping-cart i{
+		margin: 0px 10px 0px 0px;
+	}
+	.shopping-cart span{
+		font-size: 12px;
+		margin: 8px 0px;
+	}
+	.main-nav .lalaa-categories span{
+		font-size: 14px;
+	}
+	.main-banners .banner-cover{
+		margin-bottom: 30px;
+	}
+	.newarrival-widget ul li .new-list .thumb{
+		width: 100%;
+		height: auto;
+	}
+	.newarrival-widget ul li .new-list .text{
+		padding: 10px 0px 0px 0px;
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+	.electronics-adv .caption h2{
+		font-size: 16px;
+
+	}
+	.all-orders .header ul li{
+		padding: 10px 7px 10px 7px
+	}
+	.element-cover .elements .order-list ul li.header{
+		padding: 10px 10px;
+	}
+	.lalaaji-provides ul li .icon-thumb{
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+	.lalaaji-provides ul li .text{
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+	.lalaaji-adv .caption2:before{
+		display: none;
+
+	}
+	.lalaaji-adv .caption2{
+		padding: 18px 0px 0px 20px;
+	}
+	/*.lalaaji-sections .header .title, .lalaaji-sections .header .title2{
+		width: 100%;
+		border: none;
+	}
+	.lalaaji-sections .header .nav{
+		width: 100%;
+		padding: 10px 10px;
+	}*/
+	.hot-deals .thumb{
+		width: 100%;
+	}
+	.hot-deals .text{
+		width: 100%;
+		padding: 15px;
+	}
+	.product-list.with-cat-list > ul > li:nth-child(3){
+		border-left: 1px solid #EBEBEB;
+	}
+	.lalaaji-sections .header .title {
+		width: 45%;
+		padding: 10px 10px;
+	}
+	.lalaaji-sections .header h2{
+		font-size: 16px;
+	}
+	.lalaaji-adv .caption p{
+		display: none;
+	}
+	.lalaaji-adv .caption .shop{
+		width: 120px;
+		height: 36px;
+		line-height: 36px;
+	}
+	.msg-list ul li .recipient .text{
+		width: 100%;
+		float: left;
+	}
+	.msg-list ul li .recipient .thumb{
+		margin: 0px 0px 10px 0px;
+	}
+	.text-conversation, .conversation .conversation-data .inbox-inquiry{
+		width: 90%;
+	}
+	.lalaa-sidebar .other-products .thumb,
+	.lalaa-sidebar .other-products .text{
+		width: 100%;
+		float: left;
+	}
+	.widget-tags ul li{
+		padding: 8px 8px;
+		border-radius: 5px;
+	}
+	.product-description .tab button{
+		padding: 10px 20px;
+		font-size: 16px;
+	}
+	.detail-images{
+		width: 100%;
+		margin: 0px 0px 10px 0px;
+	}
+	.detail-description{
+		padding: 0px;
+		width: 100%;
+		float: left;
+	}
+	.widget-tags .widget-header, .widget-country .widget-header, .widget-list .widget-header, .widget-header-style{
+		padding: 12px;
+	}
+	.widget-country .widget-header h2, .widget-list .widget-header h2{
+		font-size: 12px;
+	}
+	.widget-country .widget-header span, .widget-list .widget-header span{
+		font-size: 10px;
+		float: left;
+	}
+	.widget-country ul li i{
+		margin-right: 8px;
+		width: 28px
+	}
+	.widget-country ul li i img{
+		width: 100%;
+	}
+	.widget-country ul li p{
+		font-size: 12px;
+	}
+	.product-list-style .product-list-detail .thumb,
+	.product-list-style .product-list-detail .text{
+		width: 100%;
+
+	}
+	.social-media ul li{
+		width: 42%
+	}
+
+
+}
+
+/*
+=================================================
+			FROM 768PX TO 979PX
+=================================================
+*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+
+}
+/*
+=================================================
+			FROM 0PX TO 767PX
+=================================================
+*/
+@media (max-width: 767px) {
+	.product-list > ul > li{
+		width: 100%;
+	}
+	.product-list > ul > li:nth-child(odd){
+		border-right: none;
+	}
+	.lalaaji-newsletters .newsletter-input button{
+		width: 110px;
+	}
+	.all-orders .header{
+		margin: 0px;
+	}
+	.top-menu{
+		text-align: center;
+		padding: 10px 0px;
+	}
+	.top-menu .nav ul li{
+		text-align: left;
+	}
+	.top-menu .covid{
+		display: inline-block;
+		float: none;
+	}
+	.top-menu .nav ul li{
+		display: inline-block;
+		float: none;
+	}
+	.lalaaji-navigation .main-nav .row{
+		margin: 0px;
+	}
+	.user-area{
+		padding: 23px 0px;
+	}
+	.user-area ul li button.premium .icon-star{
+		display: none;
+	}
+	.user-area ul li button.premium{
+		padding: 0px;
+		width: auto;
+		height: auto;
+		font-size: 12px;
+		text-transform: capitalize;
+		background: no-repeat;
+		font-weight: normal;
+		color: #9C9C9C;
+	}
+	.user-area ul li button.premium:before{
+		display: none;
+	}
+	.user-area ul li i,
+	.user-area ul li:nth-child(2) i,
+	.user-area ul li br{
+		display: none;
+	}
+	.user-area ul li{
+		font-size: 12px;
+		padding: 0px 5px;
+		border: none;
+	}
+	.nav-search .select-items{
+		left: auto;
+		margin-right: -60px;
+		right: 0px;
+
+	}
+	.header-middle{
+		padding: 14px 0px 52px 0px;
+	}
+	.width-sm-15{
+		width: 15% !important;
+		max-width: 15% !important;
+		flex: auto !important;
+	}
+	.width-sm-70{
+		width: 70% !important;
+		max-width: 70% !important;
+		flex: auto !important;
+	}
+	.main-nav .lalaa-categories span,
+	.shopping-cart span{
+		display: none;
+	}
+	.main-nav .lalaa-categories{
+		padding: 17px 0px 32px 0px;
+	}
+	.main-nav .lalaa-categories .sub-categories {
+		width: 350px;
+	}
+	.main-nav .lalaa-categories .sub-categories ul li{
+		padding: 10px;
+	}
+	.main-nav .lalaa-categories .sub-categories ul ul{
+		position: static;
+		opacity: 1;
+		visibility: visible;
+		display: none;
+	}
+	.main-nav .lalaa-categories .sub-categories ul li:hover > ul{
+		display: block;
+	}
+	.shopping-cart{
+		padding: 13px 0px;
+	}
+
+	.shopping-cart i{
+		margin: 0px;
+	}
+	.shopping-cart i img{
+		width: 100%;
+	}
+	footer .widget {
+		margin-bottom: 15px;
+	}
+	.newarrival-widget ul li{
+		width: 50%;
+	}
+	.page-header .user-area .upgrade button{
+		width: auto;
+		padding: 0px;
+		border:none;
+		font-weight: normal;
+	}
+	.page-title{
+		padding: 15px 0px 15px 15px
+	}
+	.page-header .user-area ul li{
+		padding: 0px 8px
+	}
+	.account-setting ul.setting li{
+		width: 100%;
+	}
+	.input-container p.label{
+		position: inherit;
+		float: left;
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	.input-container .space2,
+	.input-container .space{
+		padding: 0px;
+	}
+	.width-768-50 {
+		width: 100% !important;
+		max-width: 100% !important;
+		flex: auto !important;
+	}
+	.element-cover .elements .content{
+		padding: 20px 20px 0px 20px;
+	}
+	.dashboard-wrapper{
+		padding: 20px
+	}
+	.dash-sidebar,
+	.page-header{
+		position: inherit;
+		float: left;
+		width: 100%;
+	}
+	.dashboard-body{
+		padding: 0px;
+	}
+	.sidebar-nav ul li{
+		width: auto;
+	}
+	.page-header .lalaaji{
+		width: 100%;
+		text-align: center;
+	}
+	.dash-sidebar .lalaa-select{
+		margin: 0px;
+	}
+	.sidebar-nav ul{
+		padding: 10px;
+		text-align: center;
+	}
+	.sidebar-nav ul li i{
+		margin-right: 10px;
+	}
+	.sidebar-nav ul li{
+		border: none;
+		padding: 10px;
+	}
+	.sidebar-nav ul li:hover, .sidebar-nav ul li.active{
+		border: none
+	}
+	.signin-logo{
+		margin-bottom: 40px;
+	}
+	.quality-rfq{
+		margin-top:30px;
+	}
+	.widget-country .widget-header span, .widget-list .widget-header span{
+		float: right;
+	}
+	.widget-country .widget-header h2, .widget-list .widget-header h2{
+		font-size: 16px;
+	}
+	.product-list-style .product-list-detail{
+		float: left;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.product-list-style .seller-detail{
+		width: 100%;
+	}
+	.msg-to-supplier .msg-content label{
+		float: left;
+	}
+	.conversation .conversation-header{
+		position: static;
+	}
+	.my-inbox,
+	.back-to-inbox{
+		padding: 0px;
+	}
+	.conversation .conversation-data{
+		padding: 20px;
+	}
+	.manage-profile .content .user-image{
+		width: 100%;
+		margin: 0px 0px 30px 0px;
+	}
+	.manage-profile .form-content{
+		float: left;
+		width: 100%;
+	}
+	.manage-profile .form-content .m-0{
+		margin-bottom: 30px !important;
+	}
+	.manage-profile .content{
+		padding: 30px;
+	}
+	.collection.featured ul li{
+		width: 50%;
+	}
+	.hot-deals{
+		margin-bottom: 30px;
+	}
+	.product-list ul li .p-list .thumb{
+		height: 90px;
+		width: 90px;
+	}
+	.suppliers-list ul li{
+		width: 28%;
+
+	}
+	.location-map .sidebar{
+		width: 100%;
+		position: static;
+		float: left;
+	}
+	.location-map .iframe{
+		padding: 0px;
+	}
+	.page-header .user-area{
+		width: auto;
+	}
+	.product-detail-cover,
+	.supplier-detail{
+		width: 100%;
+	}
+	footer .download-app ul li{
+		float: left;
+		width: auto;
+		margin: 0px;
+		padding-left: 7px;
+	}
+	footer .download-app ul li:first-child{
+		padding-right: 7px;
+		padding-left: 0px;
+	}
+	.online-chat{
+		width: auto;
+		height: auto;
+		padding: 10px 15px;
+		right: 10px;
+	}
+	.online-chat .thumb{
+		display: none;
+	}
+	.online-chat .text{
+		padding: 0px;
+	}
+	.get-quot{
+		padding: 35px;
+	}
+	.get-intouch ul{
+		position: relative;
+		z-index: 10;
+	}
+	.get-intouch:after{
+		opacity: 0.5
+	}
+	.support{
+		position: relative;
+		z-index: 10;
+	}
+	.analytics-rating ul li{
+		width: 100%;
+	}
+	.dashboard-widget .header.tabs ul li{
+		padding: 15px 10px;
+	}
+	.dashboard-widget .header h2{
+		font-size: 14px;
+	}
+	.product-description .tab button{
+		padding: 10px 15px;
+		font-size: 14px;
+	}
+	.rfq-table p, .rfq-table2 p{
+		font-size: 12px;
+	}
+	.rfq-table2 .row .col p{
+		display: inline-block;
+	}
+	.rfq-table2 .row .col{
+		padding: 0px;
+		width: 100%;
+		flex-basis: inherit;
+		flex-grow: inherit;
+	}
+	.rfq-table2 .row .col-md-auto{
+		padding: 0px;
+	}
+	.rfq-table2 .header{
+		display: none;
+	}
+	.rfq-table2 .content .row{
+		border-bottom: solid 1px #eee;
+	}
+	.rfq-table2 .row .col:first-child:before{
+		content: "Product Name :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+	.rfq-table2 .row .col:nth-child(2):before{
+		content: "Brand Name :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+	.rfq-table2 .row .col:nth-child(3):before{
+		content: "Price :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+	.rfq-table2 .row .col:nth-child(4):before{
+		content: "Orignin :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+	.rfq-table2 .row .col:nth-child(5):before{
+		content: "Status :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+	.back-to-inbox{
+		display: block;
+	}
+	.sidenav {
+		height: 100%;
+		width: 0;
+		position: fixed;
+		z-index: 1;
+		top: 0;
+		left: 0;
+		overflow-x: hidden;
+		transition: 0.5s;
+		padding-top: 0px;
+		background: #eeeeee;
+		z-index: 100;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (min-width: 732px) and (max-width: 738px) {
+
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (max-width: 575px) {
+	.header-middle .lalaaji-logo{
+		width: 150px;
+		display: inline-block;
+		float: none;
+	}
+	.newarrival-widget ul li{
+		width: 100%;
+	}
+	.dashboard-widget .header h2 small{
+		display: block;
+		padding: 0px;
+	}
+	footer .download-app ul li{
+		width: 50%;
+	}
+	footer .download-app ul li img{
+		width: 100%;
+	}
+	.suppliers-list ul li{
+		width: 41%;
+	}
+	.order-list ul li{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.order-list ul li div{
+		padding: 3px 0px;
+	}
+	.order-list ul li.header{
+		display: none;
+	}
+	.order-list ul li div:first-child,
+	.order-list ul li div:nth-child(2),
+	.order-list ul li div:nth-child(3),
+	.order-list ul li div:nth-child(4),
+	.order-list ul li div:nth-child(5){
+		width: 100% !important;
+	}
+
+	.order-list ul li div:first-child:before{
+		content: "# :";
+		margin-right:5px;
+		font-weight: bold;
+	}
+	.order-list ul li div:nth-child(2):before{
+		content: "Seller Info :";
+		margin-right:5px;
+		font-weight: bold;
+	}
+	.order-list ul li div:nth-child(3):before{
+		content: "Product Info :";
+		margin-right:5px;
+		font-weight: bold;
+	}
+	.order-list ul li div:nth-child(4):before{
+		content: "Amount :";
+		margin-right:5px;
+		font-weight: bold;
+	}
+	.order-list ul li div:nth-child(5):before{
+		content: "Order Status :";
+		margin-right:5px;
+		font-weight: bold;
+	}
+	.lalaaji-newsletters .news-l-text i{
+		display: none;
+	}
+	.header-middle{
+		text-align: center;
+	}
+	.user-area{
+		padding: 10px 0px 0px 0px;
+		width: 100%;
+	}
+	.user-area ul li{
+		display: inline-block;
+		float: none;
+		line-height: 18px;
+	}
+	.user-area ul li p{
+
+		overflow: visible;
+	}
+	.user-area ul li:nth-child(2) p{
+		float: none;
+		width: auto;
+	}
+	.width-sm-15{
+		width: 17% !important;
+		max-width: 17% !important;
+		flex: auto !important;
+	}
+	.width-sm-70 {
+		width: 66% !important;
+		max-width: 66% !important;
+		flex: auto !important;
+	}
+	.select-selected:after{
+		display: none;
+	}
+	.nav-search .select-selected{
+		padding: 9px 5px;
+	}
+	.best-deals .deal-wrapper .caption{
+		padding: 10px 0px 0px 10px;
+	}
+	.lalaaji-adv .caption h2{
+		display: none;
+	}
+	.lalaaji-sections .header .title{
+		width: 100%;
+		border:none;
+	}
+	.lalaaji-sections .header .nav{
+		padding: 10px 15px;
+		width: 100%;
+	}
+	.width-50{
+		width: 100% !important;
+		max-width: 100% !important;
+		flex: 100% !important;
+	}
+	.all-orders{
+		padding: 10px;
+	}
+	.rfq-table .row .col{
+		padding: 0px;
+		width: 100%;
+		flex-basis: inherit;
+		flex-grow: inherit;
+	}
+	.rfq-table .content .row{
+		border-bottom: solid 1px #eee;
+	}
+	.rfq-table .row .col:first-child:before{
+		content: "RFQ Subject :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+	.rfq-table .row .col:nth-child(2):before{
+		content: "Country / Region :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+	.rfq-table .row .col:nth-child(3):before{
+		content: "Quantity Required :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+	.rfq-table .row .col:nth-child(4):before{
+		content: "Date Recieved :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+	.rfq-table .row .col:nth-child(5):before{
+		content: "Expired After :";
+		font-weight: bold;
+		margin-right: 5px;
+	}
+
+	.rfq-table .header{
+		display: none;
+	}
+	.rfq-table p{
+		font-size: 11px;
+		display: inline-block;
+	}
+
+	.text-conversation .thumb{
+		margin: 0px 0px 10px 0px;
+	}
+	.msg-list ul li{
+		padding: 8px;
+	}
+	.member-login{
+		padding: 30px;
+	}
+	.page-header .user-area ul li:first-child{
+		padding-left: 0px;
+
+	}
+	.page-title{
+		padding: 10px 0px 10px 10px
+	}
+	.page-header .user-area{
+		padding: 10px 0px;
+	}
+	.lalaaji-navigation > .container{
+		padding: 0px;
+
+	}
+	.recommended-list ul li .row .col,
+	.recommended-list ul li .row .col-6{
+		width: 100%;
+		flex-grow: inherit;
+		flex-basis: inherit;
+		flex: 0 0 100%;
+		max-width: 100%;
+		text-align: left;
+		padding: 5px 0px;
+	}
+	.recommended-list ul li p.text-right{
+		text-align: left !important;
+	}
+	.services-type ul li{
+		width: 100%;
+	}
+	.main-banners .banner-cover .caption{
+		padding: 30px;
+	}
+	.lalaaji-sections .header .nav ul li{
+		padding: 5px 10px;
+	}
+	.user-dashboard .user{
+		text-align: center;
+	}
+	.user-dashboard .user .thumb{
+		display: inline-block;
+		float: none;
+	}
+	.user-dashboard .user .text .user-name span{
+		margin-top: 15px;
+	}
+	/*.my-inbox .row.no-gutters > div:first-child{
+		display: none;
+	}*/
+	.my-inbox .row.no-gutters div:last-child{
+		float: left;
+		width: 100% !important;
+		max-width: 100% !important;
+	}
+	.overview-list ul li .left-col,
+	.overview-list ul li .right-col{
+		width: 100%;
+	}
+	.overview-list ul li .left-col{
+		font-weight: 600;
+	}
+	.table-style td{
+		font-size: 12px;
+	}
+	.rfq-table .content .row button.view, .all-orders .header button.view{
+		padding: 5px 12px
+	}
+}
+@media (max-width: 382px) {
+
+}
+
+
+
+
