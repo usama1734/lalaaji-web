@@ -855,6 +855,7 @@ footer .download-app ul li a {
 .input-container input[type='password'],
 .input-container input[type='tel'],
 .input-container input[type='number'],
+.input-container input[type='date'],
 .input-container textarea {
   background: #ffffff;
   border: 1px solid #d0d0d0;
